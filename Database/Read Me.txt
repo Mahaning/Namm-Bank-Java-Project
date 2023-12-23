@@ -1,0 +1,11 @@
+Databse file
+
+This is only a table structure of database you have to fill valid values in database
+
+Steps to create local database
+
+open mysql
+create new database of the name " namm_bank "
+import the database file in newly created database
+
+©Mahaning Hubballi
